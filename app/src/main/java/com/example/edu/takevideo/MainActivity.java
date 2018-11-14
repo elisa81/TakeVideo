@@ -45,6 +45,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             videoView.setVideoURI(videoUri);
             videoView.start();
         }
-
     }
 }
